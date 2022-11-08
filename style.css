@@ -2,10 +2,13 @@ body {
     background: #cccccc
 }
 h1 {
-    style="text-align: center
+    text-align: center
 }
 p {
     text-align: center
+}
+#missao {
+    font-size: 20px
 }
 em strong {
     color:#f5f118
